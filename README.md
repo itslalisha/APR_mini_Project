@@ -25,7 +25,7 @@ The app visualizes results using `Matplotlib` and provides interactive pattern a
 ##  Tech Stack
 
 **Frontend:**  
-- HTML / CSS / JavaScript (or Streamlit/Flask if applicable)
+- HTML / CSS / JavaScript (Streamlit/Flask for running in interactive environment)
 
 **Backend:**  
 - Python  
