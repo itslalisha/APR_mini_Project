@@ -127,12 +127,6 @@ If you’d like to improve detection accuracy, add more candlestick types, or en
 
 ---
 
-##  License
-
-This project is licensed under the **MIT License** – you’re free to use, modify, and distribute it with attribution.
-
----
-
 ##  Future Improvements
 
 - Add more advanced candlestick recognition patterns  
