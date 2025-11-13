@@ -138,4 +138,4 @@ If you’d like to improve detection accuracy, add more candlestick types, or en
 
 
 
-> “Trade with logic, not emotion — let the candles tell their story.”
+> “Thanks for reading, have a nice day.”
