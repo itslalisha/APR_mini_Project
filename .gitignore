@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.DS_Store
+
+# Virtual environments
+.venv
+archive
+datacheckpoints
+pretestcheckpoints
+data.zip
+transformed_images
+checkpoints
+checkpoints_backup
+..bfg-report
+DataMod.ipynb
+Untitled.ipynb
+Untitled1.ipynb
+.ipynb_checkpoints/
+testfile.py
+test_cap_test
+test_cap_train
+test_live_preds_cached
