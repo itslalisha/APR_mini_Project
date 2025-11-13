@@ -14,7 +14,7 @@ The app visualizes results using `Matplotlib` and provides interactive pattern a
 ##  Features
 
 -  Detects major candlestick patterns (Doji, Hammer, Engulfing, etc.)
--  Fetches real-time stock data using **yFinance**
+-  Fetches real-time stock data using "yFinance"
 -  Interactive charts and visualizations with **Matplotlib**
 -  Fast and lightweight backend built with **Python**
 -  Data analysis powered by **NumPy** and **Pandas**
@@ -25,7 +25,7 @@ The app visualizes results using `Matplotlib` and provides interactive pattern a
 ##  Tech Stack
 
 **Frontend:**  
-- HTML / CSS / JavaScript (or Streamlit/Flask if applicable)
+- HTML / CSS / JavaScript (And streamlit if you want to experience the app like experience on the web.)
 
 **Backend:**  
 - Python  
@@ -96,7 +96,7 @@ Then open your browser and visit:
 ```
 http://localhost:5000
 ```
-*(or the Streamlit URL shown in your terminal)*
+*(alternatively the Streamlit URL shown in your terminal by running the command streamlit run file_name.py)*
 
 ---
 
@@ -137,5 +137,4 @@ If you’d like to improve detection accuracy, add more candlestick types, or en
 ---
 
 
-
-> “Trade with logic, not emotion — let the candles tell their story.”
+#Thanks for reading, have a nice day!
