@@ -42,7 +42,7 @@ The app visualizes results using `Matplotlib` and provides interactive pattern a
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/stock-candle-detector.git
+git clone https://github.com/itslalisha/APR_mini_Project>/stock-candle-detector.git
 cd stock-candle-detector
 ```
 
@@ -57,7 +57,7 @@ venv\Scripts\activate      # On Windows
 Install required dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install uv
 ```
 
 ---
