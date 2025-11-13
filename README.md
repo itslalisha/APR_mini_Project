@@ -42,7 +42,7 @@ The app visualizes results using `Matplotlib` and provides interactive pattern a
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/itslalisha/APR_mini_Project>/stock-candle-detector.git
+git clone https://github.com/itslalisha/APR_mini_Project.git
 cd stock-candle-detector
 ```
 
